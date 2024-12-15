@@ -1,0 +1,1866 @@
+.screen {
+  background-color: #d8eaa6;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.screen .overlap-wrapper {
+  background-color: #d8eaa6;
+  overflow: hidden;
+  width: 1920px;
+  height: 9970px;
+}
+
+.screen .overlap {
+  position: relative;
+  width: 3543px;
+  height: 10032px;
+  top: -59px;
+  left: -807px;
+}
+
+.screen .view {
+  position: absolute;
+  width: 1923px;
+  height: 1259px;
+  top: 0;
+  left: 807px;
+}
+
+.screen .overlap-group {
+  position: relative;
+  width: 1920px;
+  height: 1200px;
+  top: 59px;
+}
+
+.screen .element {
+  position: absolute;
+  width: 1920px;
+  height: 1021px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.screen .img {
+  position: absolute;
+  width: 793px;
+  height: 793px;
+  top: 114px;
+  left: 778px;
+  object-fit: cover;
+}
+
+.screen .rectangle {
+  position: absolute;
+  width: 298px;
+  height: 37px;
+  top: 20px;
+  left: 309px;
+  background-color: #d8eaa6;
+  border-radius: 18.5px;
+}
+
+.screen .div {
+  position: absolute;
+  width: 558px;
+  height: 37px;
+  top: 20px;
+  left: 752px;
+  background-color: #d8eaa6;
+  border-radius: 18.5px;
+}
+
+.screen .rectangle-2 {
+  position: absolute;
+  width: 146px;
+  height: 37px;
+  top: 20px;
+  left: 1460px;
+  background-color: #d8eaa6;
+  border-radius: 18.5px;
+}
+
+.screen .frame {
+  position: absolute;
+  width: 1260px;
+  height: 15px;
+  top: 30px;
+  left: 330px;
+}
+
+.screen .frame-2 {
+  display: inline-flex;
+  align-items: center;
+  gap: 165px;
+  position: relative;
+}
+
+.screen .text-wrapper {
+  position: relative;
+  width: 269px;
+  height: 24px;
+  margin-top: -1px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 16px;
+  color: #4a3f3b;
+  letter-spacing: 0;
+}
+
+.screen .p {
+  position: relative;
+  width: 531px;
+  height: 24px;
+  margin-top: -1px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 700;
+  font-size: 16px;
+  text-align: center;
+  line-height: 16px;
+  color: #4a3f3b;
+  letter-spacing: 0;
+}
+
+.screen .text-wrapper-2 {
+  position: relative;
+  width: 129px;
+  height: 24px;
+  margin-top: -1px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 700;
+  font-size: 16px;
+  text-align: right;
+  line-height: 16px;
+  color: #4a3f3b;
+  letter-spacing: 0;
+}
+
+.screen .text-wrapper-3 {
+  position: absolute;
+  width: 1590px;
+  top: 93px;
+  left: 166px;
+  font-family: "Sandoll Childfundkorea TTF", Helvetica;
+  font-weight: 400;
+  color: #4a3e3b;
+  font-size: 105px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 115px;
+  white-space: nowrap;
+}
+
+.screen .element-2 {
+  position: absolute;
+  width: 1919px;
+  height: 1080px;
+  top: 120px;
+  left: 0px;
+  object-fit: cover;
+}
+
+.screen .m {
+  top: 415px;
+  left: 550px;
+  position: absolute;
+  width: 228px;
+  height: 228px;
+  object-fit: cover;
+}
+
+.screen .m-2 {
+  top: 348px;
+  left: 1682px;
+  position: absolute;
+  width: 228px;
+  height: 228px;
+  object-fit: cover;
+}
+
+.screen .e {
+  top: 471px;
+  left: 257px;
+  position: absolute;
+  width: 233px;
+  height: 233px;
+  object-fit: cover;
+}
+
+.screen .e-2 {
+  top: 511px;
+  left: 1508px;
+  position: absolute;
+  width: 233px;
+  height: 233px;
+  object-fit: cover;
+}
+
+.screen .rf {
+  position: absolute;
+  width: 202px;
+  height: 202px;
+  top: 374px;
+  left: 44px;
+  object-fit: cover;
+}
+
+.screen .element-3 {
+  width: 146px;
+  height: 146px;
+  top: 189px;
+  transform: rotate(45deg);
+  left: 1533px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.screen .element-4 {
+  position: absolute;
+  width: 146px;
+  height: 146px;
+  transform: rotate(45deg);
+  top: 215px;
+  left: 771px;
+  object-fit: cover;
+}
+
+.screen .element-5 {
+  width: 126px;
+  height: 126px;
+  top: 374px;
+  left: 401px;
+  transform: rotate(-15deg);
+  position: absolute;
+  object-fit: cover;
+}
+
+.screen .element-6 {
+  position: absolute;
+  width: 1928px;
+  height: 2956px;
+  top: 261px;
+  left: 807px;
+}
+
+.screen .overlap-2 {
+  position: absolute;
+  width: 1920px;
+  height: 2245px;
+  top: 711px;
+  left: 0;
+}
+
+.screen .rectangle-3 {
+  position: absolute;
+  width: 1920px;
+  height: 2029px;
+  top: 216px;
+  left: 0;
+  background-color: #e5a964;
+}
+
+.screen .element-7 {
+  width: 1651px;
+  height: 1032px;
+  top: 141px;
+  left: 145px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.screen .frame-3 {
+  display: flex;
+  flex-direction: column;
+  width: 380px;
+  align-items: flex-start;
+  gap: 30px;
+  position: absolute;
+  top: 130px;
+  left: 550px;
+}
+
+.screen .text-wrapper-4 {
+  position: relative;
+  align-self: stretch;
+  height: 80px;
+  margin-top: -1px;
+  font-family: "Sandoll Childfundkorea TTF", Helvetica;
+  font-weight: 400;
+  font-size: 45px;
+  line-height: 115px;
+  white-space: nowrap;
+  color: #4a3f3b;
+  letter-spacing: 0;
+}
+
+.screen .text-wrapper-5 {
+  position: relative;
+  align-self: stretch;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 30px;
+  color: #4a3f3b;
+  letter-spacing: 0;
+}
+
+.screen .element-s {
+  position: absolute;
+  width: 398px;
+  height: 352px;
+  top: 101px;
+  left: 966px;
+  object-fit: cover;
+}
+
+.screen .x {
+  position: absolute;
+  width: 424px;
+  height: 309px;
+  top: 502px;
+  left: 531px;
+  object-fit: cover;
+}
+
+.screen .r {
+  position: absolute;
+  width: 483px;
+  height: 399px;
+  top: 697px;
+  left: 955px;
+  object-fit: cover;
+}
+
+.screen .element-8 {
+  width: 1172px;
+  height: 569px;
+  top: 1147px;
+  left: 375px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.screen .text-wrapper-6 {
+  position: absolute;
+  width: 380px;
+  top: 462px;
+  left: 990px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 30px;
+  color: #4a3f3b;
+  letter-spacing: 0;
+}
+
+.screen .text-wrapper-7 {
+  position: absolute;
+  width: 380px;
+  top: 984px;
+  left: 990px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 30px;
+  color: #4a3f3b;
+  letter-spacing: 0;
+}
+
+.screen .text-wrapper-8 {
+  position: absolute;
+  width: 380px;
+  top: 741px;
+  left: 550px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 30px;
+  color: #4a3f3b;
+  letter-spacing: 0;
+}
+
+.screen .frame-4 {
+  display: flex;
+  flex-direction: column;
+  width: 380px;
+  align-items: flex-start;
+  gap: 30px;
+  position: absolute;
+  top: 1283px;
+  left: 490px;
+}
+
+.screen .text-wrapper-9 {
+  position: relative;
+  align-self: stretch;
+  height: 80px;
+  margin-top: -1px;
+  font-family: "Sandoll Childfundkorea TTF", Helvetica;
+  font-weight: 400;
+  font-size: 45px;
+  line-height: 115px;
+  white-space: nowrap;
+  color: #4a3f3b;
+  letter-spacing: 0;
+}
+
+.screen .text-wrapper-10 {
+  position: relative;
+  align-self: stretch;
+  height: 154px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 30px;
+  color: #4a3f3b;
+  letter-spacing: 0;
+}
+
+.screen .text-wrapper-11 {
+  position: absolute;
+  width: 399px;
+  top: 1746px;
+  left: 761px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 500;
+  font-size: 17px;
+  text-align: center;
+  line-height: 30px;
+  color: #4a3f3b;
+  letter-spacing: 0;
+}
+
+.screen .s {
+  position: absolute;
+  width: 453px;
+  height: 452px;
+  top: 847px;
+  left: 633px;
+  object-fit: cover;
+}
+
+.screen .element-9 {
+  width: 100px;
+  height: 100px;
+  top: 434px;
+  left: 440px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.screen .element-10 {
+  width: 122px;
+  height: 122px;
+  top: 800px;
+  left: 213px;
+  position: absolute;
+  transform: rotate(15deg);
+  object-fit: cover;
+}
+
+.screen .element-11 {
+  width: 136px;
+  height: 136px;
+  top: 949px;
+  left: 1430px;
+  position: absolute;
+  transform: rotate(150deg);
+  object-fit: cover;
+}
+
+.screen .element-12 {
+  position: absolute;
+  width: 122px;
+  height: 122px;
+  top: 1701px;
+  left: 1393px;
+  object-fit: cover;
+  transform: rotate(-165deg);
+}
+
+.screen .element-13 {
+  width: 136px;
+  height: 136px;
+  top: 1351px;
+  left: 239px;
+  position: absolute;
+  object-fit: cover;
+  transform: rotate(150deg);
+}
+
+.screen .element-14 {
+  width: 120px;
+  height: 120px;
+  transform: rotate(-60deg);
+  top: 287px;
+  left: 1473px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.screen .element-15 {
+  width: 103px;
+  height: 103px;
+  top: 932px;
+  left: 550px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.screen .element-16 {
+  width: 145px;
+  height: 145px;
+  top: 1848px;
+  left: 1160px;
+  position: absolute;
+  transform: rotate(-38deg);
+  object-fit: cover;
+}
+
+.screen .element-17 {
+  width: 126px;
+  height: 126px;
+  top: 34px;
+  transform: rotate(75deg);
+  left: 1375px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.screen .element-18 {
+  width: 146px;
+  height: 146px;
+  top: 0;
+  transform: rotate(45deg);
+  left: 344px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.screen .element-19 {
+  position: absolute;
+  width: 141px;
+  height: 141px;
+  top: 600px;
+  left: 1515px;
+  transform: rotate(-150deg);
+  object-fit: cover;
+}
+
+.screen .element-20 {
+  position: absolute;
+  width: 107px;
+  height: 107px;
+  top: 1073px;
+  left: 322px;
+  object-fit: cover;
+}
+
+.screen .element-21 {
+  width: 131px;
+  height: 131px;
+  top: 49px;
+  left: 870px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.screen .element-22 {
+  width: 131px;
+  height: 131px;
+  top: 642px;
+  left: 1307px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.screen .element-23 {
+  width: 131px;
+  height: 131px;
+  top: 1680px;
+  left: 582px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.screen .element-24 {
+  width: 131px;
+  height: 131px;
+  top: 1406px;
+  left: 1519px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.screen .element-25 {
+  width: 137px;
+  height: 137px;
+  top: 440px;
+  transform: rotate(-150deg);
+  left: 635px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.screen .element-26 {
+  position: absolute;
+  width: 87px;
+  height: 87px;
+  top: 226px;
+  left: 1582px;
+  object-fit: cover;
+}
+
+.screen .element-27 {
+  position: absolute;
+  width: 137px;
+  height: 137px;
+  transform: rotate(150deg);
+  top: 35px;
+  left: 1233px;
+  object-fit: cover;
+}
+
+.screen .element-28 {
+  position: absolute;
+  width: 131px;
+  height: 131px;
+  top: 448px;
+  left: 1310px;
+  object-fit: cover;
+}
+
+.screen .element-29 {
+  width: 146px;
+  height: 146px;
+  top: 0;
+  left: 220px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.screen .element-30 {
+  position: absolute;
+  width: 2115px;
+  height: 4726px;
+  top: 2323px;
+  left: 807px;
+}
+
+.screen .overlap-3 {
+  position: absolute;
+  width: 1920px;
+  height: 2543px;
+  top: 0;
+  left: 0;
+}
+
+.screen .element-31 {
+  position: absolute;
+  width: 1920px;
+  height: 1080px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.screen .text-wrapper-12 {
+  position: absolute;
+  width: 1260px;
+  top: 910px;
+  left: 330px;
+  font-family: "Sandoll Childfundkorea TTF", Helvetica;
+  font-weight: 400;
+  font-size: 80px;
+  text-align: center;
+  line-height: 100px;
+  color: #4a3f3b;
+  letter-spacing: 0;
+}
+
+.screen .group {
+  position: absolute;
+  width: 1499px;
+  height: 778px;
+  top: 1144px;
+  left: 166px;
+}
+
+.screen .frame-5 {
+  display: flex;
+  flex-direction: column;
+  width: 381px;
+  align-items: flex-start;
+  gap: 30px;
+  position: absolute;
+  top: 1225px;
+  left: 544px;
+}
+
+.screen .text-wrapper-13 {
+  position: relative;
+  align-self: stretch;
+  height: 80px;
+  margin-top: -1px;
+  font-family: "Sandoll Childfundkorea TTF", Helvetica;
+  font-weight: 400;
+  font-size: 45px;
+  line-height: 115px;
+  white-space: nowrap;
+  color: #4a3f3b;
+  letter-spacing: 0;
+}
+
+.screen .text-wrapper-14 {
+  position: relative;
+  align-self: stretch;
+  height: 297px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 500;
+  color: #4a3f3b;
+  font-size: 17px;
+  letter-spacing: 0;
+  line-height: 30px;
+}
+
+.screen .frame-6 {
+  display: flex;
+  flex-direction: column;
+  width: 377px;
+  height: 320px;
+  align-items: flex-start;
+  gap: 6px;
+  position: absolute;
+  top: 1287px;
+  left: 997px;
+}
+
+.screen .frame-7 {
+  display: flex;
+  align-items: center;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.screen .element-32 {
+  position: relative;
+  width: 211px;
+  height: 122px;
+  margin-top: -1px;
+  font-family: "Sandoll Childfundkorea TTF", Helvetica;
+  font-weight: 400;
+  font-size: 35px;
+  text-align: center;
+  line-height: 60px;
+  color: #4a3f3b;
+  letter-spacing: 0;
+}
+
+.screen .span {
+  font-family: "Sandoll Childfundkorea TTF", Helvetica;
+  font-weight: 400;
+  color: #4a3f3b;
+  font-size: 35px;
+  letter-spacing: 0;
+  line-height: 60px;
+}
+
+.screen .text-wrapper-15 {
+  font-size: 50px;
+}
+
+.screen .element-33 {
+  position: relative;
+  width: 176px;
+  height: 122px;
+  margin-top: -1px;
+  margin-left: -27px;
+  font-family: "Sandoll Childfundkorea TTF", Helvetica;
+  font-weight: 400;
+  font-size: 35px;
+  text-align: center;
+  line-height: 60px;
+  color: #4a3f3b;
+  letter-spacing: 0;
+}
+
+.screen .line {
+  position: relative;
+  width: 377px;
+  height: 4px;
+}
+
+.screen .element-34 {
+  position: relative;
+  align-self: stretch;
+  height: 208px;
+  margin-bottom: -21px;
+  font-family: "Sandoll Childfundkorea TTF", Helvetica;
+  font-weight: 400;
+  font-size: 50px;
+  text-align: center;
+  line-height: 90px;
+  color: #4a3f3b;
+  letter-spacing: 0;
+}
+
+.screen .text-wrapper-16 {
+  font-family: "Sandoll Childfundkorea TTF", Helvetica;
+  font-weight: 400;
+  color: #4a3f3b;
+  font-size: 50px;
+  letter-spacing: 0;
+  line-height: 90px;
+}
+
+.screen .text-wrapper-17 {
+  font-size: 80px;
+}
+
+.screen .frame-8 {
+  position: absolute;
+  width: 1720px;
+  height: 747px;
+  top: 1796px;
+  left: 100px;
+}
+
+.screen .frame-9 {
+  display: flex;
+  flex-direction: column;
+  width: 1254px;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 10px 77px;
+  position: absolute;
+  top: 286px;
+  left: 235px;
+}
+
+.screen .frame-10 {
+  display: inline-flex;
+  align-items: center;
+  gap: 187px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.screen .df {
+  position: relative;
+  width: 452px;
+  height: 400px;
+  object-fit: cover;
+}
+
+.screen .ssa {
+  position: relative;
+  width: 453px;
+  height: 400px;
+  object-fit: cover;
+}
+
+.screen .frame-11 {
+  position: absolute;
+  width: 1254px;
+  height: 37px;
+  top: -9px;
+  left: -4px;
+}
+
+.screen .text-wrapper-18 {
+  position: absolute;
+  width: 609px;
+  top: -1px;
+  left: 0;
+  font-family: "Sandoll Childfundkorea TTF", Helvetica;
+  font-weight: 400;
+  font-size: 35px;
+  text-align: center;
+  line-height: 40px;
+  white-space: nowrap;
+  color: #4a3f3b;
+  letter-spacing: 0;
+}
+
+.screen .text-wrapper-19 {
+  position: absolute;
+  width: 613px;
+  top: -1px;
+  left: 641px;
+  font-family: "Sandoll Childfundkorea TTF", Helvetica;
+  font-weight: 400;
+  font-size: 35px;
+  text-align: center;
+  line-height: 40px;
+  white-space: nowrap;
+  color: #4a3f3b;
+  letter-spacing: 0;
+}
+
+.screen .frame-12 {
+  display: flex;
+  flex-direction: column;
+  width: 826px;
+  height: 251px;
+  align-items: center;
+  gap: 30px;
+  position: absolute;
+  top: -15px;
+  left: 448px;
+}
+
+.screen .text-wrapper-20 {
+  position: relative;
+  width: 1016px;
+  height: 48px;
+  margin-top: -1px;
+  margin-left: -95px;
+  margin-right: -95px;
+  font-family: "Sandoll Childfundkorea TTF", Helvetica;
+  font-weight: 400;
+  font-size: 45px;
+  text-align: center;
+  line-height: 50px;
+  white-space: nowrap;
+  color: #4a3f3b;
+  letter-spacing: 0;
+}
+
+.screen .element-35 {
+  position: relative;
+  width: 376px;
+  height: 173px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 500;
+  font-size: 17px;
+  text-align: center;
+  line-height: 30px;
+  color: #4a3f3b;
+  letter-spacing: 0;
+}
+
+.screen .element-36 {
+  width: 590px;
+  height: 590px;
+  transform: rotate(-120deg);
+  top: 850px;
+  left: 1400px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.screen .overlap-4 {
+  position: absolute;
+  width: 1254px;
+  height: 888px;
+  top: 2633px;
+  left: 336px;
+}
+
+.screen .frame-13 {
+  position: absolute;
+  width: 1254px;
+  height: 888px;
+  top: 0;
+  left: 0;
+}
+
+.screen .text-wrapper-21 {
+  position: absolute;
+  width: 822px;
+  top: 24px;
+  left: 213px;
+  font-family: "Sandoll Childfundkorea TTF", Helvetica;
+  font-weight: 400;
+  font-size: 45px;
+  text-align: center;
+  line-height: 40px;
+  white-space: nowrap;
+  color: #4a3f3b;
+  letter-spacing: 0;
+}
+
+.screen .overlap-group-2 {
+  position: absolute;
+  width: 1254px;
+  height: 682px;
+  top: 119px;
+  left: 0;
+}
+
+.screen .frame-14 {
+  display: inline-flex;
+  align-items: center;
+  gap: 60px;
+  padding: 11px 0px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.screen .asd-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 378px;
+  height: 641px;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 33px 0px;
+  position: relative;
+  background-color: #ffffff;
+  border-radius: 51px;
+}
+
+.screen .asd {
+  position: relative;
+  width: 374px;
+  height: 351px;
+  object-fit: cover;
+}
+
+.screen .z-wrapper {
+  position: relative;
+  width: 378px;
+  height: 641px;
+  background-color: #ffffff;
+  border-radius: 51px;
+}
+
+.screen .z {
+  position: absolute;
+  width: 378px;
+  height: 344px;
+  top: 27px;
+  left: 0;
+  object-fit: cover;
+}
+
+.screen .s-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 378px;
+  height: 641px;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 34px 0px;
+  position: relative;
+  background-color: #ffffff;
+  border-radius: 51px;
+}
+
+.screen .s-2 {
+  position: relative;
+  width: 378px;
+  height: 351px;
+}
+
+.screen .frame-15 {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  padding: 0px 380px;
+  position: absolute;
+  top: 415px;
+  left: 58px;
+}
+
+.screen .text-wrapper-22 {
+  position: relative;
+  width: 378px;
+  height: 44px;
+  margin-top: -1px;
+  font-family: "Sandoll Childfundkorea TTF", Helvetica;
+  font-weight: 400;
+  font-size: 35px;
+  text-align: center;
+  line-height: 45px;
+  white-space: nowrap;
+  color: #4a3f3b;
+  letter-spacing: 0;
+}
+
+.screen .text-wrapper-23 {
+  position: absolute;
+  width: 373px;
+  top: -1px;
+  left: -57px;
+  font-family: "Sandoll Childfundkorea TTF", Helvetica;
+  font-weight: 400;
+  font-size: 35px;
+  text-align: center;
+  line-height: 45px;
+  white-space: nowrap;
+  color: #4a3f3b;
+  letter-spacing: 0;
+}
+
+.screen .text-wrapper-24 {
+  position: absolute;
+  width: 379px;
+  top: -1px;
+  left: 817px;
+  font-family: "Sandoll Childfundkorea TTF", Helvetica;
+  font-weight: 400;
+  font-size: 35px;
+  text-align: center;
+  line-height: 45px;
+  white-space: nowrap;
+  color: #4a3f3b;
+  letter-spacing: 0;
+}
+
+.screen .frame-16 {
+  display: flex;
+  width: 1146px;
+  align-items: center;
+  gap: 30px;
+  position: absolute;
+  top: 488px;
+  left: 52px;
+}
+
+.screen .element-37 {
+  position: relative;
+  width: 399px;
+  height: 194px;
+  margin-top: -1px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 30px;
+  color: #4a3f3b;
+  letter-spacing: 0;
+}
+
+.screen .element-38 {
+  position: relative;
+  width: 400px;
+  height: 194px;
+  margin-top: -1px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 30px;
+  color: #4a3f3b;
+  letter-spacing: 0;
+}
+
+.screen .element-39 {
+  position: relative;
+  width: 401px;
+  height: 194px;
+  margin-top: -1px;
+  margin-right: -114px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 30px;
+  color: #4a3f3b;
+  letter-spacing: 0;
+}
+
+.screen .element-40 {
+  position: absolute;
+  width: 85px;
+  height: 85px;
+  top: 513px;
+  left: 876px;
+  object-fit: cover;
+}
+
+.screen .image {
+  width: 85px;
+  height: 85px;
+  top: 513px;
+  left: 731px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.screen .image-2 {
+  width: 85px;
+  height: 85px;
+  top: 513px;
+  left: 438px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.screen .image-3 {
+  width: 85px;
+  height: 85px;
+  top: 513px;
+  left: 293px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.screen .image-4 {
+  width: 85px;
+  height: 85px;
+  top: 513px;
+  left: 0;
+  position: absolute;
+  object-fit: cover;
+}
+
+.screen .element-41 {
+  position: absolute;
+  width: 85px;
+  height: 85px;
+  top: 513px;
+  left: 1169px;
+  object-fit: cover;
+}
+
+.screen .overlap-5 {
+  position: absolute;
+  width: 1920px;
+  height: 1205px;
+  top: 3521px;
+  left: 0;
+}
+
+.screen .frame-17 {
+  display: flex;
+  flex-direction: column;
+  width: 1920px;
+  align-items: center;
+  gap: 30px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.screen .text-wrapper-25 {
+  position: relative;
+  align-self: stretch;
+  height: 52px;
+  margin-top: -1px;
+  font-family: "Sandoll Childfundkorea TTF", Helvetica;
+  font-weight: 400;
+  font-size: 45px;
+  text-align: center;
+  line-height: 45px;
+  white-space: nowrap;
+  color: #4a3f3b;
+  letter-spacing: 0;
+}
+
+.screen .element-42 {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 992px;
+}
+
+.screen .text-wrapper-26 {
+  position: absolute;
+  width: 378px;
+  top: 1051px;
+  left: 1212px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 30px;
+  color: #4a3f3b;
+  letter-spacing: 0;
+}
+
+.screen .overlap-group-wrapper {
+  position: absolute;
+  width: 3543px;
+  height: 3651px;
+  top: 6381px;
+  left: 0;
+}
+
+.screen .overlap-6 {
+  position: relative;
+  width: 1920px;
+  height: 3648px;
+  left: 807px;
+}
+
+.screen .element-43 {
+  position: absolute;
+  width: 1918px;
+  height: 1080px;
+  top: 0;
+  left: px;
+  object-fit: cover;
+}
+
+.screen .rectangle-4 {
+  position: absolute;
+  width: 1919px;
+  height: 2514px;
+  top: 1006px;
+  left: 0px;
+  background-color: #e5a964;
+}
+
+.screen .text-wrapper-27 {
+  position: absolute;
+  width: 830px;
+  top: 895px;
+  left: 547px;
+  font-family: "Sandoll Childfundkorea TTF", Helvetica;
+  font-weight: 400;
+  font-size: 80px;
+  text-align: center;
+  line-height: 70px;
+  white-space: nowrap;
+  color: #4a3f3b;
+  letter-spacing: 0;
+}
+
+.screen .zc {
+  position: absolute;
+  width: 1918px;
+  height: 1073px;
+  top: 2575px;
+  left: 0px;
+  object-fit: cover;
+}
+
+.screen .text-wrapper-28 {
+  position: absolute;
+  width: 830px;
+  top: 2851px;
+  left: 547px;
+  font-family: "Sandoll Childfundkorea TTF", Helvetica;
+  font-weight: 400;
+  font-size: 80px;
+  text-align: center;
+  line-height: 70px;
+  white-space: nowrap;
+  color: #4a3f3b;
+  letter-spacing: 0;
+}
+
+.screen .text-wrapper-29 {
+  position: absolute;
+  width: 380px;
+  top: 2985px;
+  left: 990px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 30px;
+  color: #4a3f3b;
+  letter-spacing: 0;
+}
+
+.screen .text-wrapper-30 {
+  position: absolute;
+  width: 380px;
+  top: 3245px;
+  left: 1210px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 30px;
+  color: #4a3f3b;
+  letter-spacing: 0;
+}
+
+.screen .element-44 {
+  position: absolute;
+  width: 830px;
+  top: 3515px;
+  left: 332px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 25px;
+  color: #4a3f3b;
+  letter-spacing: 0;
+}
+
+.screen .element-45 {
+  position: absolute;
+  width: 510px;
+  height: 510px;
+  top: 2146px;
+  left: 700px;
+  object-fit: cover;
+}
+
+.screen .element-46 {
+  position: absolute;
+  width: 520px;
+  height: 520px;
+  top: 2080px;
+  left: 1125px;
+  object-fit: cover;
+}
+
+.screen .element-47 {
+  position: absolute;
+  width: 499px;
+  height: 499px;
+  top: 2147px;
+  left: 273px;
+  object-fit: cover;
+}
+
+.screen .frame-18 {
+  display: flex;
+  flex-direction: column;
+  width: 1260px;
+  align-items: center;
+  gap: 80px;
+  position: absolute;
+  top: 2162px;
+  left: 331px;
+}
+
+.screen .text-wrapper-31 {
+  position: relative;
+  align-self: stretch;
+  height: 49px;
+  margin-top: -1px;
+  font-family: "Sandoll Childfundkorea TTF", Helvetica;
+  font-weight: 400;
+  font-size: 45px;
+  text-align: center;
+  line-height: 50px;
+  white-space: nowrap;
+  color: #4a3f3b;
+  letter-spacing: 0;
+}
+
+.screen .frame-wrapper {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 268px;
+}
+
+.screen .div-wrapper {
+  width: 1260px;
+  height: 268px;
+}
+
+.screen .frame-19 {
+  display: flex;
+  width: 1260px;
+  height: 268px;
+  align-items: center;
+  gap: 61px;
+  position: relative;
+}
+
+.screen .frame-20 {
+  position: relative;
+  width: 401px;
+  height: 224px;
+}
+
+.screen .text-wrapper-32 {
+  position: absolute;
+  width: 401px;
+  top: -1px;
+  left: 0;
+  font-family: "Sandoll Childfundkorea TTF", Helvetica;
+  font-weight: 400;
+  font-size: 23px;
+  text-align: center;
+  line-height: 20px;
+  color: #4a3f3b;
+  letter-spacing: 0;
+}
+
+.screen .text-wrapper-33 {
+  position: absolute;
+  width: 185px;
+  top: 55px;
+  left: 0;
+  font-family: "Sandoll Childfundkorea TTF", Helvetica;
+  font-weight: 400;
+  font-size: 35px;
+  text-align: right;
+  line-height: 30px;
+  color: #4a3f3b;
+  letter-spacing: 0;
+}
+
+.screen .text-wrapper-34 {
+  position: absolute;
+  width: 184px;
+  top: 55px;
+  left: 217px;
+  font-family: "Sandoll Childfundkorea TTF", Helvetica;
+  font-weight: 400;
+  font-size: 35px;
+  line-height: 30px;
+  white-space: nowrap;
+  color: #4a3f3b;
+  letter-spacing: 0;
+}
+
+.screen .text-wrapper-35 {
+  position: absolute;
+  width: 185px;
+  top: 93px;
+  left: 0;
+  font-family: "Sandoll Childfundkorea TTF", Helvetica;
+  font-weight: 400;
+  font-size: 75px;
+  text-align: right;
+  line-height: 80px;
+  white-space: nowrap;
+  color: #4a3f3b;
+  letter-spacing: 0;
+}
+
+.screen .text-wrapper-36 {
+  position: absolute;
+  width: 184px;
+  top: 114px;
+  left: 217px;
+  font-family: "Sandoll Childfundkorea TTF", Helvetica;
+  font-weight: 400;
+  font-size: 50px;
+  line-height: 45px;
+  white-space: nowrap;
+  color: #4a3f3b;
+  letter-spacing: 0;
+}
+
+.screen .frame-21 {
+  position: relative;
+  width: 368px;
+  height: 224px;
+}
+
+.screen .text-wrapper-37 {
+  position: absolute;
+  width: 400px;
+  top: -1px;
+  left: -32px;
+  font-family: "Sandoll Childfundkorea TTF", Helvetica;
+  font-weight: 400;
+  font-size: 23px;
+  text-align: center;
+  line-height: 20px;
+  color: #4a3f3b;
+  letter-spacing: 0;
+}
+
+.screen .text-wrapper-38 {
+  position: absolute;
+  width: 185px;
+  top: 55px;
+  left: -32px;
+  font-family: "Sandoll Childfundkorea TTF", Helvetica;
+  font-weight: 400;
+  font-size: 35px;
+  text-align: right;
+  line-height: 30px;
+  white-space: nowrap;
+  color: #4a3f3b;
+  letter-spacing: 0;
+}
+
+.screen .text-wrapper-39 {
+  position: absolute;
+  width: 184px;
+  top: 55px;
+  left: 185px;
+  font-family: "Sandoll Childfundkorea TTF", Helvetica;
+  font-weight: 400;
+  font-size: 35px;
+  line-height: 30px;
+  white-space: nowrap;
+  color: #4a3f3b;
+  letter-spacing: 0;
+}
+
+.screen .text-wrapper-40 {
+  position: absolute;
+  width: 184px;
+  top: 114px;
+  left: 185px;
+  font-family: "Sandoll Childfundkorea TTF", Helvetica;
+  font-weight: 400;
+  font-size: 50px;
+  line-height: 45px;
+  white-space: nowrap;
+  color: #4a3f3b;
+  letter-spacing: 0;
+}
+
+.screen .text-wrapper-41 {
+  position: absolute;
+  width: 185px;
+  top: 90px;
+  left: -32px;
+  font-family: "Sandoll Childfundkorea TTF", Helvetica;
+  font-weight: 400;
+  font-size: 75px;
+  text-align: right;
+  line-height: 80px;
+  white-space: nowrap;
+  color: #4a3f3b;
+  letter-spacing: 0;
+}
+
+.screen .frame-22 {
+  position: relative;
+  width: 323px;
+  height: 224px;
+}
+
+.screen .text-wrapper-42 {
+  position: absolute;
+  width: 402px;
+  top: -1px;
+  left: -33px;
+  font-family: "Sandoll Childfundkorea TTF", Helvetica;
+  font-weight: 400;
+  font-size: 23px;
+  text-align: center;
+  line-height: 20px;
+  color: #4a3f3b;
+  letter-spacing: 0;
+}
+
+.screen .text-wrapper-43 {
+  position: absolute;
+  width: 187px;
+  top: 55px;
+  left: -33px;
+  font-family: "Sandoll Childfundkorea TTF", Helvetica;
+  font-weight: 400;
+  font-size: 35px;
+  text-align: right;
+  line-height: 30px;
+  white-space: nowrap;
+  color: #4a3f3b;
+  letter-spacing: 0;
+}
+
+.screen .text-wrapper-44 {
+  position: absolute;
+  width: 184px;
+  top: 111px;
+  left: 185px;
+  font-family: "Sandoll Childfundkorea TTF", Helvetica;
+  font-weight: 400;
+  font-size: 50px;
+  line-height: 45px;
+  white-space: nowrap;
+  color: #4a3f3b;
+  letter-spacing: 0;
+}
+
+.screen .element-48 {
+  width: 1020px;
+  height: 886px;
+  top: 980px;
+  left: 900px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.screen .element-49 {
+  width: 1019px;
+  height: 886px;
+  top: 1219px;
+  left: 0;
+  position: absolute;
+  object-fit: cover;
+}
+
+.screen .frame-23 {
+  position: absolute;
+  width: 601px;
+  height: 325px;
+  top: 1596px;
+  left: 331px;
+}
+
+.screen .frame-24 {
+  display: flex;
+  flex-direction: column;
+  width: 378px;
+  align-items: flex-start;
+  gap: 30px;
+  position: absolute;
+  top: 42px;
+  left: 63px;
+}
+
+.screen .text-wrapper-45 {
+  position: relative;
+  width: 378px;
+  height: 31px;
+  margin-top: -1px;
+  font-family: "Sandoll Childfundkorea TTF", Helvetica;
+  font-weight: 400;
+  font-size: 35px;
+  line-height: 35px;
+  white-space: nowrap;
+  color: #4a3f3b;
+  letter-spacing: 0;
+}
+
+.screen .text-wrapper-46 {
+  position: relative;
+  width: 378px;
+  height: 180px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 30px;
+  color: #4a3f3b;
+  letter-spacing: 0;
+}
+
+.screen .sdf {
+  position: absolute;
+  width: 519px;
+  height: 233px;
+  top: -221px;
+  left: -25px;
+  object-fit: cover;
+}
+
+.screen .frame-25 {
+  position: absolute;
+  width: 576px;
+  height: 513px;
+  top: 1142px;
+  left: 1053px;
+}
+
+.screen .zx {
+  position: absolute;
+  width: 576px;
+  height: 223px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.screen .frame-26 {
+  display: flex;
+  flex-direction: column;
+  width: 439px;
+  align-items: flex-start;
+  gap: 30px;
+  position: absolute;
+  top: 262px;
+  left: 98px;
+}
+
+.screen .text-wrapper-47 {
+  position: relative;
+  align-self: stretch;
+  height: 31px;
+  margin-top: -1px;
+  font-family: "Sandoll Childfundkorea TTF", Helvetica;
+  font-weight: 400;
+  font-size: 35px;
+  line-height: 35px;
+  white-space: nowrap;
+  color: #4a3f3b;
+  letter-spacing: 0;
+}
+
+.screen .text-wrapper-48 {
+  position: relative;
+  width: 378px;
+  height: 190px;
+  font-family: "Noto Sans KR", Helvetica;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 30px;
+  color: #4a3f3b;
+  letter-spacing: 0;
+}
+
+.screen .element-50 {
+  position: absolute;
+  width: 253px;
+  height: 253px;
+  transform: rotate(-144deg);
+  top: 1960px;
+  left: 1465px;
+  object-fit: cover;
+}
+
+.screen .element-51 {
+  position: absolute;
+  width: 254px;
+  height: 254px;
+  top: 898px;
+  transform: rotate(38deg);
+  left: 236px;
+  object-fit: cover;
+}
+
+.screen .element-52 {
+  position: absolute;
+  width: 169px;
+  height: 169px;
+  top: 1055px;
+  left: 731px;
+  object-fit: cover;
+}
+
+.screen .element-53 {
+  position: absolute;
+  width: 198px;
+  height: 198px;
+  top: 782px;
+  left: 1252px;
+  object-fit: cover;
+  transform: rotate(18deg);
+}
+
+.screen .image-5 {
+  width: 223px;
+  height: 223px;
+  top: 1844px;
+  left: 1078px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.screen .element-54 {
+  position: absolute;
+  width: 793px;
+  height: 793px;
+  top: 2741px;
+  left: 167px;
+  object-fit: cover;
+}
+
+.screen .element-55 {
+  position: absolute;
+  width: 181px;
+  height: 181px;
+  top: 2651px;
+  left: 163px;
+  object-fit: cover;
+}
+
+.screen .element-56 {
+  position: absolute;
+  width: 156px;
+  height: 156px;
+  top: 2792px;
+  left: 253px;
+  transform: rotate(135deg);
+  object-fit: cover;
+}
